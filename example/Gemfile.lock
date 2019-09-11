@@ -1,0 +1,18 @@
+GIT
+  remote: git@github.com:shwaka/gem_test_hola.git
+  revision: 2e1b6fb263fe8a81800d2bc12c2f549afa826366
+  specs:
+    hola (0.0.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  hola!
+
+BUNDLED WITH
+   1.17.2
