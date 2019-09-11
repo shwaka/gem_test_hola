@@ -8,7 +8,7 @@ class Hola::Translator
     when "spanish"
       "hola mundo"
     else
-      "hello world (from 0.0.1)"
+      "hello world (from 0.0.2)"
     end
   end
 end
