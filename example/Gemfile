@@ -1,3 +1,4 @@
 source 'https://rubygems.org'
 
-gem 'hola', git: 'git@github.com:shwaka/gem_test_hola.git'
+gem 'hola', git: 'git@github.com:shwaka/gem_test_hola.git', ref: "7f4958f4fee8d970e53ecd25caee1d4ee04f8252"
+# gem 'hola', git: 'git@github.com:shwaka/gem_test_hola.git', ref: "386df6cd0927dca39301d37111de39ce07906ed4"
